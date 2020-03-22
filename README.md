@@ -6,7 +6,9 @@ Primeiro projeto utilizando GraphQl com React para fazer as requisições em uma
 * Conhecimento JavaScript
 * Familiaridade com ReactJs
 
-# Intalar:
+# Instalar:
+npm install -g create-react-app
+create-react-app "nome-do-projeto"
 npm install graphql --save
     //      apollo-client --save
     //      apollo-cache-inmemory --save
