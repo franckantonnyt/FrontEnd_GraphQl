@@ -1,0 +1,30 @@
+.body-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.container-pokemons {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.card-first {
+  width: 121.3px;
+  border-right: 2px solid grey;
+  padding: 5px 5px 0px;
+}
+
+img {
+  width: 105px;
+  height: 110px;
+}
+
+h3 {
+  margin: 0 auto;
+  text-align: center;
+}
