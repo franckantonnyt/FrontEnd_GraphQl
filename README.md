@@ -2,7 +2,7 @@
 Primeiro projeto utilizando GraphQl com React para fazer as requisições em uma api, utilizei apollo também.
 
 # Pré-requisitos:
-* Versão node 13.11
+* Versão node atualizada
 * Conhecimento JavaScript
 * Familiaridade com ReactJs
 
