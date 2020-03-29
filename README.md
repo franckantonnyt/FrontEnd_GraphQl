@@ -10,11 +10,11 @@ Primeiro projeto utilizando GraphQl com React para fazer as requisições em uma
 npm install -g create-react-app<br/>
 create-react-app "nome-do-projeto"<br/>
 npm install graphql --save<br/>
------//----- apollo-client --save<br/>
------//----- apollo-cache-inmemory --save<br/>
------//----- apollo-link-http --save<br/>
------//----- react-apollo --save<br/>
------//----- graphql-tag --save
+npm install apollo-client --save<br/>
+npm install apollo-cache-inmemory --save<br/>
+npm install apollo-link-http --save<br/>
+npm install react-apollo --save<br/>
+npm install graphql-tag --save
 
 # Api:
 "https://graphql-pokemon.now.sh/"
